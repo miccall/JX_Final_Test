@@ -1,2 +1,24 @@
 # JX_Final_Test
-Southwest University for Nationalities Computer Applications and Development Association 2017 session Study Tour
+Southwest University for Nationalities 
+西南民族大学
+Computer Applications and Development Association 
+计算机应用与发展协会 
+2017 session 
+2017届 
+Study Tour
+结业考核
+
+## 一 规则
+
+1. 操作为开放式，你随时可以百度，可以谷歌，可以寻求老师或他人资助，但完全依靠自己的人脉和资源关系。
+2. 时间限制为24小时，也就是你拿到题开始，到第二天的此时此刻为止。（每个人时间不同，别问我我是怎么计算的）
+3. 考察题目相当简单，别有压力，我会提供一部分教程。 虽然简单，但很锻炼你的能力，希望有兴趣加入研发部的认真对待。
+4. 研发部不是神秘的部门，就像你现在看到的文字，虽然是研发部人员写的，但是你仍然可以看懂。
+5. 题目要求在第二栏目，参考教程在第三栏目，提交作业的方式在第四栏目，评判的规则在第五栏目。
+6. 提交不保证成功。请自行测试成功之后，方可安心。
+
+## 二 题目
+## 三 参考教程
+## 四 提交方式
+## 五 评判规则
+
